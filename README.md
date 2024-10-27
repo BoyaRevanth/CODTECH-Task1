@@ -1,8 +1,13 @@
 **Name:B REVANTH KUMAR**
+
 **Company:CODTECH IT SOLUTIONS**
+
 **ID:CT6WDS2016**
+
 **Domain:CYBER SECURITY & ETHICAL HACKING**
+
 **Duration:SEP25TH TO NOV10TH,2024**
+
 **Mentor:SANTHOSH**
 
 ## Overview of the Project
